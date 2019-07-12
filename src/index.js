@@ -5,6 +5,8 @@ const App = ()=>{
     return(<div>Life is good</div>);
 }
 
+
+
 ReactDOM.render(
             <App />,
             document.querySelector('#root'));
