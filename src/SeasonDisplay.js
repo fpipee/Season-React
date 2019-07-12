@@ -1,7 +1,8 @@
 import React from 'react';
 
-const SeasonDisplay =()=>{
-    return(
+const SeasonDisplay = () => {
+
+    return (
         <div>Hey</div>
     );
 }
