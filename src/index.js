@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 class App extends React.Component {
     constructor(props) {
         super(props);
-        //Below we defined the properties that will be used test tag
+        //Below we defined the properties that will be used nueva prueba
         this.state = { lat: 0, errorMessage: '' };
         window.navigator.geolocation.getCurrentPosition(
             position => {
